@@ -10,7 +10,7 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 212703979081;
 global.owner = [
-  ['33759850405', 'KIM SUN OO', true],
+  ['212703979081', 'KIM SUN OO', true],
   ['', 'Owner 2', true],
 ];
 
